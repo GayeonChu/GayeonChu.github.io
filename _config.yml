@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "추가연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/masked marvel snoopy.jpg"
   bio              : "용인한국외국어대학교부설고등학교 자연계열 학생"
   location         : "대한민국, 서울"
   email            : "bluemind11gani@gmail.com"
