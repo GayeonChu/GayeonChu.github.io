@@ -27,8 +27,8 @@ categories: "형성평가"
   }
   ~~~
   
-  ### 02. 3개의 터널 통과
- ![tunnel](/assets/images/터널.png)
+### 02. 3개의 터널 통과
+![tunnel](/assets/images/터널.png)
 ~~~c
 #include <stdio.h>
   int main(void)
