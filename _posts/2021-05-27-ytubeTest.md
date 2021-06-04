@@ -12,7 +12,7 @@ toc_label: "페이지 주요 목차"
 ---
 
 ### 02. 영화 '앤트맨과 와스프'로 알아보는 양자역학
-(% include video id="mjPy7BqIrEY" provider="youtube" %}
+(% include video id="mjPy7BqIrEY&t=1s" provider="youtube" %}
 
 ---
 
